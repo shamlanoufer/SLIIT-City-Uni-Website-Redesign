@@ -6,8 +6,8 @@ This Human-Computer Interaction (HCI) assignment presents a complete usability e
 ---
 
 ## 🖼️ SLIIT City Uni Homepage  
-*(Upload your screenshot and update the path below)*  
-Screenshot 2025-12-03 185713.png
+[*(Upload your screenshot and update the path below)*  
+Screenshot 2025-12-03 185713.png](https://github.com/shamlanoufer/SLIIT-City-Uni-Website-Redesign/blob/929c8ced7a7f34890134d7eb0bd399403f0e7b14/Screenshot%202025-12-03%20185713.png)
 
 ---
 
